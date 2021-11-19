@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"            "Spawn Menu Modifications"
+	"version"         "1"
+	"up_date"         "11/18/2021"
+	"author_name"     "SameDragon"
+}
