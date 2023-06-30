@@ -1,4 +1,4 @@
-# SameDragon-SpawnMenu-Modifications [OLD]
+# SameDragon-SpawnMenu-Modifications [NO LONGER SUPPORTED]
 Made this to hide certain parts of the spawn menu in-game (Garry's Mod DarkRP)
 
 # Installation Tutorial
