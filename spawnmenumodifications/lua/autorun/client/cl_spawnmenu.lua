@@ -1,6 +1,6 @@
 local function removeOldTables()
 
-if table.HasValue( SAMEDRAGON_SPAWNMENU_CONFIG_ADMINS, LocalPlayer() :GetUserGroup()) then return end
+if table.HasValue( SAMEDRAGON_SPAWNMENU_CONFIG_ADMINS, LocalPlayer():GetUserGroup()) then return end
     for k, v in pairs( g_SpawnMenu.CreateMenu.Items ) do
         if (v.Tab:GetText() == language.GetPhrase("spawnmenu.category.npcs") or
             v.Tab:GetText() == language.GetPhrase("spawnmenu.category.entities") or
